@@ -1,0 +1,18 @@
+neofetch
+
+alias update="sudo pacman -Syu"
+alias download="sudo pacman -S"
+alias remove="sudo pacman -Rn"
+alias jn="jupyter notebook --notebook-dir='/run/media/jt/New Volume'"
+alias cr="conda run"
+alias ca="conda activate"
+alias cab="conda activate base"
+alias an="anaconda-navigator"
+alias cc="conda create --name"
+alias ci="conda install"
+alias cl="conda info --envs"
+alias cre="conda env remove --name"
+alias nw="cd '/run/media/jt/New Volume'"
+
+
+shopt -s cdspell
